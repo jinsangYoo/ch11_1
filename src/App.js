@@ -23,7 +23,9 @@ function App() {
     { path: 'services', element: <Navigate to="/about/services" /> }
   ])
 
-  return element
+  // return element
+
+  return <div>{element}</div>
 
   // return (
   //   <div>
