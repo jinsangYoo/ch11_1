@@ -7,6 +7,7 @@ import Fetch from './Fetch'
 import RepoMenu from './RepoMenu'
 import UserRepositories from './UseRepositories'
 import RepositoryReadme from './RespositoryReadme'
+import ColorDetails from './ColorDetails'
 
 export {
   AddColorForm,
@@ -18,5 +19,6 @@ export {
   Fetch,
   RepoMenu,
   UserRepositories,
-  RepositoryReadme
+  RepositoryReadme,
+  ColorDetails
 }
